@@ -1,0 +1,16 @@
+# Ignore common video file formats
+*.mp4
+*.webm
+*.mkv
+*.flv
+*.avi
+*.mov
+*.wmv
+*.mpg
+*.mpeg
+*.3gp
+*.part
+*.ytdl
+
+# Ignore text files
+*.txt

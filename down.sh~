@@ -1,0 +1,13 @@
+yt-dlp https://www.youtube.com/watch?v=Kr3Sh2PKA8Y
+sleep 1500
+yt-dlp https://www.youtube.com/watch?v=2t4vswC-3mY -S res:420
+sleep 600
+yt-dlp https://www.youtube.com/watch?v=EkuVqdj8O6E
+sleep 900
+yt-dlp https://www.youtube.com/watch?v=ddAwgZ6ietc
+sleep 1200
+yt-dlp https://www.youtube.com/watch?v=VqiPNN4Jblk
+sleep 1500
+yt-dlp https://www.youtube.com/watch?v=4ysh99UaUOo
+sleep 1500
+yt-dlp https://www.youtube.com/watch?v=ZE_H7rijrVk
